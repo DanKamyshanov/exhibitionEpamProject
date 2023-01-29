@@ -1,0 +1,28 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+.gradient-custom{
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+}
+
+.exhibitions-container button{
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.exhibitions_container{
+    padding: 50px 20%;
+}
+
+.exhibitions td{
+    font-size: 16px;
+    padding: 5px 10px;
+    border: 10px groove #0dcaf0;
+}
+
+.exhibitions table{
+    caption-side: top;
+}

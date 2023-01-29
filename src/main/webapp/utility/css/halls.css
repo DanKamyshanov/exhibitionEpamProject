@@ -1,0 +1,91 @@
+.halls_container{
+    padding: 50px 20%;
+}
+
+.halls_container button{
+    background: #3d5d8f;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.halls td{
+    font-size: 16px;
+    padding: 5px 10px;
+    border: 10px groove;
+    border-color: #404040 #919191 #404040 #919191;
+}
+
+.halls table{
+    caption-side: top;
+}
+
+.pagination{
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.pagination-inner{
+    position: absolute;
+    padding-left: 50%;
+}
+
+.pagination a{
+    background-color: red;
+    float: left;
+    margin-right: 5px;
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.pagination a:hover{
+    background-color: red;
+    color: brown;
+}
+
+.pagination a.active{
+    background-color: firebrick;
+    color: red;
+}
+
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover, .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}

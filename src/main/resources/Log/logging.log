@@ -1,0 +1,711 @@
+
+2023-01-11 01:17:19 INFO  UsersDAOmySQLImpl:126 - User (login: anaverse) was added to the database.
+2023-01-11 03:50:02 INFO  UsersDAOmySQLImpl:126 - User (login: anaverse) was added to the database.
+2023-01-11 03:55:32 INFO  UsersDAOmySQLImpl:126 - User (login: KiKasl69) was added to the database.
+2023-01-11 18:01:30 ERROR UsersDAOmySQLImpl:131 - java.sql.SQLException: Parameter index out of range (7 > number of parameters, which is 6).
+2023-01-11 18:03:03 ERROR UsersDAOmySQLImpl:131 - java.sql.SQLException: Parameter index out of range (7 > number of parameters, which is 6).
+2023-01-11 18:17:43 ERROR UsersDAOmySQLImpl:131 - java.sql.SQLException: Parameter index out of range (7 > number of parameters, which is 6).
+2023-01-11 18:20:17 ERROR UsersDAOmySQLImpl:131 - java.sql.SQLException: Parameter index out of range (7 > number of parameters, which is 6).
+2023-01-11 18:36:16 ERROR UsersDAOmySQLImpl:131 - java.sql.SQLException: Parameter index out of range (7 > number of parameters, which is 6).
+2023-01-11 18:37:04 INFO  UsersDAOmySQLImpl:129 - User (login: AlChWi) was added to the database.
+2023-01-11 18:39:18 INFO  UsersDAOmySQLImpl:129 - User (login: DJUlt) was added to the database.
+2023-01-16 02:52:00 INFO  UsersDAOmySQLImpl:129 - User (login: AlChWi) was added to the database.
+2023-01-16 22:02:05 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-16 23:58:17 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:18:45 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:20:35 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:20:35 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:22:20 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:22:20 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:25:33 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:25:33 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:26:11 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:26:11 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:26:39 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:26:39 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:27:09 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:27:09 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:28:04 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:28:04 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:28:38 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:28:38 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:29:03 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:29:03 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:30:39 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:30:39 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:30:50 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:30:50 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:33:15 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:33:15 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:33:27 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:33:27 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:39:18 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:39:18 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:39:29 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:39:29 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:41:36 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:41:36 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:41:49 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:41:49 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:42:17 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 01:42:27 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 01:42:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:04:05 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:04:05 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:04:22 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:04:22 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:07:11 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:09:38 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:09:38 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:09:48 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:09:48 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:14:36 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:14:48 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:15:50 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:15:50 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:16:04 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:16:04 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:20:13 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:20:27 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:21:26 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:21:39 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:23:01 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:23:01 WARN  AccessFilter:29 - User not authorised to access administrator page.
+2023-01-17 02:23:11 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:23:11 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:24:07 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:34:19 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:34:19 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:35:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 02:36:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 22:10:28 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-17 22:10:28 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 00:11:33 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 00:16:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 00:22:28 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 00:23:18 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 00:51:46 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 00:51:46 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 01:09:23 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 01:09:23 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 01:15:18 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 01:15:18 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 01:34:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 01:34:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 15:41:12 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 15:41:12 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 15:47:07 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 15:48:35 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 15:54:52 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 15:56:05 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 15:59:26 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:00:27 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:05:35 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:18:31 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:21:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:24:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:31:34 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:35:37 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:39:54 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:47:11 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 16:53:48 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:01:46 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:08:57 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:13:25 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:17:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:17:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:20:14 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:23:48 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:33:41 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 17:50:48 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 18:09:26 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 18:59:20 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 21:35:42 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 21:58:42 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-18 21:58:42 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-18 21:59:09 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-18 21:59:09 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-18 21:59:11 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-18 21:59:11 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-18 21:59:33 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 22:02:37 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-18 22:02:37 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-18 22:12:41 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-18 22:12:41 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-19 03:04:33 ERROR ExhibitionsDAOmySQLImpl:184 - java.lang.NullPointerException
+2023-01-19 03:07:09 ERROR ExhibitionsDAOmySQLImpl:184 - java.lang.NullPointerException
+2023-01-20 01:09:09 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:09:09 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:10:50 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:10:50 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:11:49 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:11:49 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:12:37 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:12:37 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:13:13 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:13:13 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:13:53 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:13:53 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:15:23 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:15:23 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:16:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:16:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:17:22 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:17:22 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:20:38 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:20:38 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:22:07 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:22:07 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:23:00 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:23:00 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:25:23 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:25:23 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:26:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 01:26:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 17:51:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 17:51:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 17:58:09 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 17:59:18 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-20 17:59:18 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-20 20:31:31 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 20:31:31 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-20 20:32:22 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 01:17:41 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-21 01:19:16 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-21 01:20:09 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-21 01:21:10 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-21 15:43:53 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 15:43:53 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 15:47:29 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 15:47:58 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 15:47:58 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 15:53:12 ERROR UsersDAOmySQLImpl:247 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-21 16:10:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 16:11:07 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 16:11:07 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 16:59:50 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 17:00:46 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 17:31:03 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 17:31:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:11:58 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 18:11:58 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 18:12:15 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:12:15 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:17:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:18:20 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:18:45 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 18:18:45 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_for_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 18:22:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:27:59 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:28:25 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 18:28:25 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 18:30:41 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:34:35 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 18:43:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 18:43:55 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 18:43:55 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 19:01:09 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 19:02:28 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 19:20:07 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 19:20:28 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 19:20:28 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 19:21:24 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 19:27:58 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 19:28:17 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 19:28:17 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 19:46:26 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 19:46:44 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 19:46:44 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_id_halls` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+2023-01-21 19:49:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 19:49:45 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 19:49:45 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-21 19:56:25 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 19:57:55 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 19:57:55 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-21 20:00:37 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-21 20:01:03 INFO  ExhibitionsDAOmySQLImpl:44 - Exhibition (id: 0) was added to the database.
+2023-01-21 20:01:03 ERROR ExhibitionsDAOmySQLImpl:99 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-21 20:06:24 ERROR UsersDAOmySQLImpl:247 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 20:10:32 ERROR UsersDAOmySQLImpl:247 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-21 20:18:45 ERROR UsersDAOmySQLImpl:247 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-22 00:31:38 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 00:31:38 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 00:33:27 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 00:33:49 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 138) was added to the database.
+2023-01-22 00:36:21 ERROR ExhibitionsDAOmySQLImpl:104 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-22 00:48:40 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 00:49:01 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 139) was added to the database.
+2023-01-22 00:50:09 ERROR ExhibitionsDAOmySQLImpl:104 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-22 01:03:19 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 01:05:53 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 140) was added to the database.
+2023-01-22 01:05:53 ERROR ExhibitionsDAOmySQLImpl:104 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-22 01:07:33 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 01:08:09 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 141) was added to the database.
+2023-01-22 01:08:27 ERROR ExhibitionsDAOmySQLImpl:104 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-22 01:09:08 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 01:09:33 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 142) was added to the database.
+2023-01-22 01:09:33 ERROR ExhibitionsDAOmySQLImpl:104 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-22 01:16:42 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 01:17:04 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 143) was added to the database.
+2023-01-22 01:17:04 ERROR ExhibitionsDAOmySQLImpl:104 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-22 01:22:52 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 01:23:18 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 144) was added to the database.
+2023-01-22 01:24:29 ERROR ExhibitionsDAOmySQLImpl:104 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`exhibition_halls`, CONSTRAINT `exhibition_halls_ibfk_1` FOREIGN KEY (`hall_id`) REFERENCES `halls` (`id`) ON DELETE CASCADE)
+2023-01-22 01:28:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 01:29:27 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 145) was added to the database.
+2023-01-22 01:29:27 INFO  ExhibitionsDAOmySQLImpl:101 - Hall (id: 1) was successfully assigned to exhibition (id: 145).
+2023-01-22 01:29:27 INFO  ExhibitionsDAOmySQLImpl:101 - Hall (id: 2) was successfully assigned to exhibition (id: 145).
+2023-01-22 15:40:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 15:40:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 15:41:45 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 15:42:41 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 146) was added to the database.
+2023-01-22 15:42:41 INFO  ExhibitionsDAOmySQLImpl:101 - Hall (id: 1) was successfully assigned to exhibition (id: 146).
+2023-01-22 15:42:41 INFO  ExhibitionsDAOmySQLImpl:101 - Hall (id: 2) was successfully assigned to exhibition (id: 146).
+2023-01-22 15:42:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 15:43:38 INFO  ExhibitionsDAOmySQLImpl:49 - Exhibition (id: 147) was added to the database.
+2023-01-22 15:43:38 INFO  ExhibitionsDAOmySQLImpl:101 - Hall (id: 3) was successfully assigned to exhibition (id: 147).
+2023-01-22 15:43:38 INFO  ExhibitionsDAOmySQLImpl:101 - Hall (id: 4) was successfully assigned to exhibition (id: 147).
+2023-01-22 15:43:38 INFO  ExhibitionsDAOmySQLImpl:101 - Hall (id: 5) was successfully assigned to exhibition (id: 147).
+2023-01-22 15:43:56 ERROR UsersDAOmySQLImpl:247 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-22 15:45:30 INFO  UsersDAOmySQLImpl:247 - User (id: 2) has successfully purchased a ticket for exhibition (id: 146).
+2023-01-22 17:51:28 INFO  UsersDAOmySQLImpl:247 - User (id: 2) has successfully purchased a ticket for exhibition (id: 146).
+2023-01-22 18:06:49 INFO  UsersDAOmySQLImpl:247 - User (id: 2) has successfully purchased a ticket for exhibition (id: 146).
+2023-01-22 20:10:40 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 20:10:40 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-22 20:15:06 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-23 15:47:02 INFO  UsersDAOmySQLImpl:247 - User (id: 17) has successfully purchased a ticket for exhibition (id: 146).
+2023-01-23 15:47:32 INFO  UsersDAOmySQLImpl:247 - User (id: 17) has successfully purchased a ticket for exhibition (id: 146).
+2023-01-23 15:51:20 INFO  UsersDAOmySQLImpl:247 - User (id: 17) has successfully purchased a ticket for exhibition (id: 146).
+2023-01-23 15:53:56 INFO  UsersDAOmySQLImpl:247 - User (id: 17) has successfully purchased a ticket for exhibition (id: 146).
+2023-01-24 00:40:39 INFO  HallsDAOmySQLImpl:104 - Hall (id 1) was deleted from the database.
+2023-01-24 00:40:41 INFO  HallsDAOmySQLImpl:104 - Hall (id 1) was deleted from the database.
+2023-01-24 00:41:13 INFO  HallsDAOmySQLImpl:104 - Hall (id 2) was deleted from the database.
+2023-01-24 00:41:16 INFO  HallsDAOmySQLImpl:104 - Hall (id 2) was deleted from the database.
+2023-01-24 00:41:18 INFO  HallsDAOmySQLImpl:104 - Hall (id 2) was deleted from the database.
+2023-01-24 00:41:18 INFO  HallsDAOmySQLImpl:104 - Hall (id 2) was deleted from the database.
+2023-01-24 00:41:19 INFO  HallsDAOmySQLImpl:104 - Hall (id 2) was deleted from the database.
+2023-01-24 00:41:20 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:21 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:21 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:21 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:21 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:21 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:22 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:22 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:22 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:22 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:22 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:22 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:23 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:23 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:23 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:23 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:25 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:25 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:25 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:27 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:27 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:41:29 INFO  HallsDAOmySQLImpl:104 - Hall (id 3) was deleted from the database.
+2023-01-24 00:42:35 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:40 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:42 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:43 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:43 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:43 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:43 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:43 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:44 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:44 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:44 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:44 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:44 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:45 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:45 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:45 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:45 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:46 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:47 INFO  HallsDAOmySQLImpl:104 - Hall (id 4) was deleted from the database.
+2023-01-24 00:42:51 INFO  HallsDAOmySQLImpl:104 - Hall (id 5) was deleted from the database.
+2023-01-24 00:45:13 INFO  HallsDAOmySQLImpl:104 - Hall (id 6) was deleted from the database.
+2023-01-24 00:45:19 INFO  HallsDAOmySQLImpl:104 - Hall (id 6) was deleted from the database.
+2023-01-24 00:46:46 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-24 00:53:10 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:14 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:19 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:20 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:20 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:20 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:20 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:21 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:21 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:57 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:53:58 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:01 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 00:54:01 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 00:54:05 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:07 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:08 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:08 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:08 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:08 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:08 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:09 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:09 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:09 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:09 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:09 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:09 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:10 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:10 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:10 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:10 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:54:11 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:57:47 ERROR ExhibitionsDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:57:52 ERROR ExhibitionsDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:57:54 ERROR ExhibitionsDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:58:01 ERROR ExhibitionsDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:58:03 ERROR ExhibitionsDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:58:03 ERROR ExhibitionsDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:58:04 ERROR ExhibitionsDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 00:58:04 ERROR ExhibitionsDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:25 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:26 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:27 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:27 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:27 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:27 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:27 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:28 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:29 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:29 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:30 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:30 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:31 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:37 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:01:38 ERROR ExhibitionsDAOmySQLImpl:258 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:02:10 ERROR ExhibitionsDAOmySQLImpl:259 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `exhibitionID` FOREIGN KEY (`exhibition_id`) REFERENCES `exhibitions` (`id`))
+2023-01-24 01:05:05 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 146) was deleted from the database.
+2023-01-24 01:05:15 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 146) was deleted from the database.
+2023-01-24 01:05:16 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 146) was deleted from the database.
+2023-01-24 01:05:16 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 146) was deleted from the database.
+2023-01-24 01:05:16 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 146) was deleted from the database.
+2023-01-24 01:05:32 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 147) was deleted from the database.
+2023-01-24 01:06:01 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 01:06:44 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 148) was added to the database.
+2023-01-24 01:06:44 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 11) was successfully assigned to exhibition (id: 148).
+2023-01-24 01:06:48 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:50 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:50 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:50 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:51 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:51 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:51 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:51 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:52 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:52 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:52 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:52 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:52 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:06:52 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 148) was deleted from the database.
+2023-01-24 01:12:05 INFO  HallsDAOmySQLImpl:104 - Hall (id 11) was deleted from the database.
+2023-01-24 01:12:12 INFO  HallsDAOmySQLImpl:104 - Hall (id 11) was deleted from the database.
+2023-01-24 01:13:00 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-24 01:17:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 01:18:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 01:20:23 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 01:20:59 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-24 01:21:06 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-24 01:21:14 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-24 01:23:01 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 01:23:29 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-24 01:25:26 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 01:25:49 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-24 01:30:06 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 01:30:29 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-24 01:36:16 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 01:36:42 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-24 02:00:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:00:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:01:04 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 193) was added to the database.
+2023-01-24 02:01:04 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 12) was successfully assigned to exhibition (id: 193).
+2023-01-24 02:02:55 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:03:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:10:35 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 194) was added to the database.
+2023-01-24 02:10:35 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 12) was successfully assigned to exhibition (id: 194).
+2023-01-24 02:10:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:19:51 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:20:10 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 195) was added to the database.
+2023-01-24 02:20:10 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 12) was successfully assigned to exhibition (id: 195).
+2023-01-24 02:20:17 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:20:33 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 196) was added to the database.
+2023-01-24 02:20:33 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 12) was successfully assigned to exhibition (id: 196).
+2023-01-24 02:20:38 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:20:57 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 197) was added to the database.
+2023-01-24 02:20:57 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 12) was successfully assigned to exhibition (id: 197).
+2023-01-24 02:24:57 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 02:25:22 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 198) was added to the database.
+2023-01-24 02:25:22 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 12) was successfully assigned to exhibition (id: 198).
+2023-01-24 02:25:28 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 199) was added to the database.
+2023-01-24 02:25:28 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 12) was successfully assigned to exhibition (id: 199).
+2023-01-24 13:18:42 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 13:18:42 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:42:40 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:45:06 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:45:08 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:45:08 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:45:09 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:45:12 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:45:13 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:45:15 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:45:17 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:46:14 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:46:18 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:46:21 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:46:24 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:46:51 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:54:22 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:54:29 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:54:43 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:54:46 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:54:52 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:54:54 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:54:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 14:55:01 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 15:19:08 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 15:21:04 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 15:23:39 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 15:24:13 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 15:26:27 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-24 15:39:23 INFO  UsersDAOmySQLImpl:147 - User (login: Danky2) was added to the database.
+2023-01-24 15:51:53 INFO  UsersDAOmySQLImpl:147 - User (login: dwfw) was added to the database.
+2023-01-24 16:39:27 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 194) was deleted from the database.
+2023-01-24 16:39:30 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 195) was deleted from the database.
+2023-01-24 16:39:31 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 196) was deleted from the database.
+2023-01-24 16:39:33 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 197) was deleted from the database.
+2023-01-24 16:39:35 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 198) was deleted from the database.
+2023-01-24 16:39:36 INFO  ExhibitionsDAOmySQLImpl:255 - Exhibition (id: 199) was deleted from the database.
+2023-01-24 16:47:52 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-24 16:49:41 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-24 16:51:25 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-24 17:00:37 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-24 17:02:16 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:02:16 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:02:21 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:20:10 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:20:50 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:20:52 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:20:55 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:20:59 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:21:03 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:21:06 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:21:36 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:24:20 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 200) was added to the database.
+2023-01-24 17:24:20 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 200).
+2023-01-24 17:24:21 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:24:21 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:24:49 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:26:31 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 201) was added to the database.
+2023-01-24 17:26:31 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 15) was successfully assigned to exhibition (id: 201).
+2023-01-24 17:26:31 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 16) was successfully assigned to exhibition (id: 201).
+2023-01-24 17:31:08 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:34:24 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 202) was added to the database.
+2023-01-24 17:34:24 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 17) was successfully assigned to exhibition (id: 202).
+2023-01-24 17:34:49 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:35:07 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:36:31 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 203) was added to the database.
+2023-01-24 17:36:31 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 17) was successfully assigned to exhibition (id: 203).
+2023-01-24 17:36:47 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:38:52 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 204) was added to the database.
+2023-01-24 17:38:52 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 15) was successfully assigned to exhibition (id: 204).
+2023-01-24 17:38:52 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 16) was successfully assigned to exhibition (id: 204).
+2023-01-24 17:38:52 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 204).
+2023-01-24 17:40:00 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 17:40:55 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 205) was added to the database.
+2023-01-24 17:40:55 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 205).
+2023-01-24 17:47:40 INFO  UsersDAOmySQLImpl:147 - User (login: anaverse) was added to the database.
+2023-01-24 17:47:45 ERROR UsersDAOmySQLImpl:249 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-24 17:47:48 ERROR UsersDAOmySQLImpl:249 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-24 17:47:51 ERROR UsersDAOmySQLImpl:249 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-24 17:49:14 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:18 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:21 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:24 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:27 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:30 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:34 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:39 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:41 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:44 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:54 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:49:56 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:50:39 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 17:50:40 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 18:06:25 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 18:06:25 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-24 18:35:47 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 18:35:51 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 18:35:54 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-24 18:35:56 INFO  UsersDAOmySQLImpl:247 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-25 02:26:37 ERROR ExhibitionsDAOmySQLImpl:56 - java.sql.SQLException
+2023-01-25 02:26:37 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 1) was added to the database.
+2023-01-25 15:31:40 ERROR ExhibitionsDAOmySQLImpl:56 - java.sql.SQLException
+2023-01-25 15:31:40 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 1) was added to the database.
+2023-01-25 15:32:10 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-25 15:32:11 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-25 15:32:31 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 206) was added to the database.
+2023-01-25 15:32:31 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 16) was successfully assigned to exhibition (id: 206).
+2023-01-25 15:32:31 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 206).
+2023-01-25 15:38:24 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-25 15:38:40 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 207) was added to the database.
+2023-01-25 15:38:40 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 207).
+2023-01-25 15:38:40 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 16) was successfully assigned to exhibition (id: 207).
+2023-01-25 15:38:46 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-25 15:40:11 INFO  UsersDAOmySQLImpl:153 - User (login: dankyky) was added to the database.
+2023-01-25 15:43:02 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-25 16:44:16 ERROR ExhibitionsDAOmySQLImpl:56 - java.sql.SQLException
+2023-01-25 16:44:16 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 1) was added to the database.
+2023-01-25 17:00:03 ERROR ExhibitionsDAOmySQLImpl:56 - java.sql.SQLException
+2023-01-25 17:00:03 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 1) was added to the database.
+2023-01-25 17:04:25 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-25 17:04:29 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-25 17:06:23 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 208) was added to the database.
+2023-01-25 17:06:23 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 16) was successfully assigned to exhibition (id: 208).
+2023-01-25 17:06:23 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 208).
+2023-01-25 17:06:36 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 208) was deleted from the database.
+2023-01-25 17:06:41 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 207) was deleted from the database.
+2023-01-25 17:08:15 INFO  UsersDAOmySQLImpl:153 - User (login: DanielKam09) was added to the database.
+2023-01-25 17:08:32 ERROR UsersDAOmySQLImpl:257 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-25 18:40:55 INFO  UsersDAOmySQLImpl:255 - User (id: 21) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-25 18:46:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-25 18:46:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-25 20:21:12 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-26 22:34:16 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-26 22:34:16 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-26 23:01:58 INFO  UsersDAOmySQLImpl:165 - User (id: 20) was deleted from the database.
+2023-01-26 23:02:02 INFO  UsersDAOmySQLImpl:165 - User (id: 20) was deleted from the database.
+2023-01-26 23:02:04 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-26 23:02:14 INFO  UsersDAOmySQLImpl:165 - User (id: 23) was deleted from the database.
+2023-01-26 23:02:21 INFO  UsersDAOmySQLImpl:165 - User (id: 23) was deleted from the database.
+2023-01-26 23:13:49 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-26 23:13:51 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-26 23:13:54 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-26 23:16:54 INFO  UsersDAOmySQLImpl:165 - User (id: 27) was deleted from the database.
+2023-01-26 23:16:57 INFO  UsersDAOmySQLImpl:165 - User (id: 27) was deleted from the database.
+2023-01-26 23:17:12 INFO  UsersDAOmySQLImpl:165 - User (id: 27) was deleted from the database.
+2023-01-27 01:20:29 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 01:20:43 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 204) was deleted from the database.
+2023-01-27 01:23:39 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 205) was deleted from the database.
+2023-01-27 01:23:41 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 205) was deleted from the database.
+2023-01-27 01:23:42 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 205) was deleted from the database.
+2023-01-27 01:23:42 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 205) was deleted from the database.
+2023-01-27 01:23:43 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 205) was deleted from the database.
+2023-01-27 01:24:34 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 203) was deleted from the database.
+2023-01-27 01:24:38 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 203) was deleted from the database.
+2023-01-27 04:53:19 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 04:53:19 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 04:56:01 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:03 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:04 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:04 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:06 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:07 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:08 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:08 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:08 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:08 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:08 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:09 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:09 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:11 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:25 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:25 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:26 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:56:27 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:58:11 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:58:17 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:58:19 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:58:20 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:58:20 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 04:58:21 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 05:16:32 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 05:18:24 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 05:18:26 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 05:21:36 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 05:21:37 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 05:21:38 ERROR UsersDAOmySQLImpl:167 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`exhibitions`.`purchases`, CONSTRAINT `userID` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+2023-01-27 05:30:46 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:48 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:49 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:50 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:50 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:50 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:50 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:50 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:51 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:51 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:51 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:52 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:52 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 05:30:52 INFO  UsersDAOmySQLImpl:165 - User (id: 21) was deleted from the database.
+2023-01-27 06:16:14 ERROR UsersDAOmySQLImpl:185 - java.sql.SQLException: No value specified for parameter 1
+2023-01-27 06:16:19 ERROR UsersDAOmySQLImpl:185 - java.sql.SQLException: No value specified for parameter 1
+2023-01-27 06:29:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 06:29:56 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:02:26 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:02:26 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:17:53 INFO  UsersDAOmySQLImpl:151 - User (login: AlChWi) was added to the database.
+2023-01-27 16:19:28 INFO  UsersDAOmySQLImpl:151 - User (login: DJUlt) was added to the database.
+2023-01-27 16:20:11 INFO  UsersDAOmySQLImpl:151 - User (login: DanielKam09) was added to the database.
+2023-01-27 16:20:45 INFO  UsersDAOmySQLImpl:151 - User (login: danky_ky) was added to the database.
+2023-01-27 16:21:32 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:21:44 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:28:12 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 209) was added to the database.
+2023-01-27 16:28:12 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 16) was successfully assigned to exhibition (id: 209).
+2023-01-27 16:30:15 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:31:12 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:36:00 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-27 16:36:26 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-27 16:36:46 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-27 16:37:04 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-27 16:37:09 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-27 16:37:18 ERROR ExhibitionsDAOmySQLImpl:56 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'description' at row 1
+2023-01-27 16:38:03 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:38:05 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:39:04 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 210) was added to the database.
+2023-01-27 16:39:04 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 210).
+2023-01-27 16:39:04 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 16) was successfully assigned to exhibition (id: 210).
+2023-01-27 16:39:07 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:42:34 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:46:56 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 211) was added to the database.
+2023-01-27 16:46:56 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 211).
+2023-01-27 16:46:57 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 16:51:27 INFO  UsersDAOmySQLImpl:254 - User (id: 27) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-27 16:51:28 INFO  UsersDAOmySQLImpl:254 - User (id: 27) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-27 16:51:33 INFO  UsersDAOmySQLImpl:254 - User (id: 27) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-27 16:51:36 INFO  UsersDAOmySQLImpl:254 - User (id: 27) has successfully purchased a ticket for exhibition (id: 209).
+2023-01-27 16:51:47 INFO  UsersDAOmySQLImpl:254 - User (id: 27) has successfully purchased a ticket for exhibition (id: 211).
+2023-01-27 16:52:09 INFO  UsersDAOmySQLImpl:254 - User (id: 28) has successfully purchased a ticket for exhibition (id: 201).
+2023-01-27 16:52:12 INFO  UsersDAOmySQLImpl:254 - User (id: 28) has successfully purchased a ticket for exhibition (id: 201).
+2023-01-27 16:52:14 INFO  UsersDAOmySQLImpl:254 - User (id: 28) has successfully purchased a ticket for exhibition (id: 201).
+2023-01-27 16:52:16 INFO  UsersDAOmySQLImpl:254 - User (id: 28) has successfully purchased a ticket for exhibition (id: 209).
+2023-01-27 16:52:25 INFO  UsersDAOmySQLImpl:254 - User (id: 28) has successfully purchased a ticket for exhibition (id: 210).
+2023-01-27 16:52:27 INFO  UsersDAOmySQLImpl:254 - User (id: 28) has successfully purchased a ticket for exhibition (id: 210).
+2023-01-27 16:53:32 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-27 16:53:35 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 201).
+2023-01-27 16:53:38 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 202).
+2023-01-27 16:53:41 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 209).
+2023-01-27 16:53:51 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 201).
+2023-01-27 16:54:04 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 210).
+2023-01-27 16:55:05 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-27 16:55:09 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 211).
+2023-01-27 16:55:30 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 18:35:34 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-27 18:36:07 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-27 18:39:54 INFO  UsersDAOmySQLImpl:254 - User (id: 30) has successfully purchased a ticket for exhibition (id: 200).
+2023-01-27 18:40:38 INFO  HallsDAOmySQLImpl:25 - Hall (id: 0) was added to the database.
+2023-01-27 18:40:44 INFO  AccessFilter:32 - Administrator authority confirmed - access granted.
+2023-01-27 18:41:22 INFO  ExhibitionsDAOmySQLImpl:53 - Exhibition (id: 212) was added to the database.
+2023-01-27 18:41:22 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 16) was successfully assigned to exhibition (id: 212).
+2023-01-27 18:41:22 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 14) was successfully assigned to exhibition (id: 212).
+2023-01-27 18:41:22 INFO  ExhibitionsDAOmySQLImpl:105 - Hall (id: 15) was successfully assigned to exhibition (id: 212).
+2023-01-27 18:41:33 INFO  ExhibitionsDAOmySQLImpl:280 - Exhibition (id: 212) was deleted from the database.
