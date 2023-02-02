@@ -6,9 +6,6 @@ import com.epam.exhibitions.database.DAOFactoryMySQLImpl;
 import com.epam.exhibitions.database.Entities.Exhibition;
 import com.epam.exhibitions.database.Entities.Hall;
 
-import java.math.BigDecimal;
-import java.sql.Date;
-import java.sql.Time;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.List;
@@ -33,10 +30,6 @@ public class ExhibitionService {
         return exhibitionsDAO.getAll();
     }
 
-    public Optional<Exhibition> getById(int id){
-        return Optional.ofNullable(exhibitionsDAO.getById(id));
-    }
-
     public List<Hall> getHalls(int id){
         return exhibitionsDAO.getHalls(id);
     }
@@ -51,10 +44,6 @@ public class ExhibitionService {
 
     public void deleteExhibition(int id){
         exhibitionsDAO.deleteExhibition(id);
-    }
-
-    public int getNumberOfTicketsSold(int id){
-        return exhibitionsDAO.getNumberOfTicketsSold(id);
     }
 
     public Optional<Exhibition> getByName(String name){

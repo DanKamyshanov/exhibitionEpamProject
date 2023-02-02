@@ -12,9 +12,7 @@ import javax.mail.*;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-import java.io.InputStream;
 import java.sql.Date;
 import java.sql.Time;
 import java.time.LocalDate;
@@ -277,18 +275,6 @@ public class ActionExecutor {
         service.updateUser(user);
         return "profile.jsp";
     }
-
-//    public static String updateUser(HttpServletRequest request, UserService service){
-//        User user = (User) request.getSession().getAttribute("user");
-//        user.setFirst_name(request.getParameter("first_name"));
-//        user.setLast_name(request.getParameter("last_name"));
-//        user.setLogin(request.getParameter("login"));
-//        user.setPassword(request.getParameter("password"));
-//        user.setEmail(request.getParameter("email"));
-//        user.setPhone_number(request.getParameter("phone_number"));
-//        service.updateUser(user);
-//        return "manageUsers.jsp";
-//    }
 
     public static String viewHalls(HttpServletRequest request, HallService hallService){
         int currentPage = Integer.parseInt(request.getParameter("page"));

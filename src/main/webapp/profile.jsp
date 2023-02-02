@@ -18,13 +18,6 @@
                 <div class="card-body text-center">
                     <img src="utility/img/profilePicDefault.jpg" alt="defaultProfilePic" class="rounded-circle img-fluid" style="width: 150px">
                     <h5 class="my-3">${sessionScope.user.login}</h5>
-<%--                    <div class="d-flex justify-content-center mb-2">--%>
-<%--                        <form action="../home" method="get">--%>
-<%--                            <input name="action" type="hidden" value="logout">--%>
-<%--                            <button class="btn btn-primary" type="submit"><fmt:message key="header.button.logOut"/></button>--%>
-<%--                        </form>--%>
-<%--                    </div>--%>
-
                     <div class="d-flex justify-content-center mb-2">
                         <a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalProfile"><fmt:message key="profile.button.edit"/></a>
                     </div>
@@ -101,15 +94,6 @@
                     </div>
                 </div>
             </div>
-<%--            <div class="row">--%>
-<%--                <div class="col-md-6">--%>
-<%--                    <div class="card border-white bg-transparent text-white mb-4 mb-md-0" style="border-radius: 25px">--%>
-<%--                        <div class="card-body">--%>
-<%--                            <p class="mb-4">Your Purchases</p>--%>
-<%--                        </div>--%>
-<%--                    </div>--%>
-<%--                </div>--%>
-<%--            </div>--%>
         </div>
     </div>
 </div>

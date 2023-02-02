@@ -14,11 +14,6 @@ public class DAOFactoryMySQLImpl implements DAOFactory {
         return new HallsDAOmySQLImpl();
     }
 
-//    @Override
-//    public TicketsDAO getTicketsDAO() {
-//        return new TicketsDAOmySQLImpl();
-//    }
-
     @Override
     public UsersDAO getUsersDAO() {
         return new UsersDAOmySQLImpl();
