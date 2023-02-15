@@ -7,6 +7,7 @@ import com.epam.exhibitions.database.Entities.User;
 import com.epam.exhibitions.services.ExhibitionService;
 import com.epam.exhibitions.services.HallService;
 import com.epam.exhibitions.services.UserService;
+import com.epam.exhibitions.utils.VerifyReCaptcha;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
@@ -63,6 +64,13 @@ public class ActionExecutor {
     public static String login(HttpServletRequest request, UserService userService){
         String login = request.getParameter("login");
         String password = request.getParameter("password");
+        String gRecaptchaResponse = request.getParameter("g-recaptcha-response");
+
+        boolean verify = VerifyReCaptcha.verify(gRecaptchaResponse);
+        if(!verify){
+            request.setAttribute("captchaError", "captcha.error");
+            return "login.jsp";
+        }
 
         if(login == null || login.equals("")){
             request.getSession().setAttribute("error", "loginLogin");
@@ -370,7 +378,7 @@ public class ActionExecutor {
     public static String changeLanguage(HttpServletRequest request){
         String lang = request.getParameter("language");
         request.getSession().setAttribute("language", lang);
-        return "index.jsp";
+        return "";
     }
 
     public static String viewStatistics(HttpServletRequest request, ExhibitionService service){

@@ -3,7 +3,10 @@
 <%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@include file="header.jsp"%>
 
-<html>
+<fmt:setLocale value="${sessionScope.language}"/>
+<fmt:setBundle basename="language"/>
+
+<html lang="${sessionScope.language}">
 <head>
     <title>View halls</title>
     <link rel="stylesheet" href="utility/css/halls.css">

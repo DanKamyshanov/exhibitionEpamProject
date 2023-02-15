@@ -13,7 +13,6 @@
 
 <fmt:setBundle basename="language"/>
 
-
 <html>
 <head>
     <title>Exhibitions</title>
@@ -23,6 +22,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
     <script src="utility/js/bootstrap5/bootstrap.bundle.min.js"></script>
+    <script src="utility/js/languageChange.js"></script>
 </head>
 <body>
 <header class="p-3 bg-dark text-white">
@@ -54,13 +54,13 @@
             <div class="dropdown">
                 <c:choose>
                     <c:when test="${sessionScope['javax.servlet.jsp.jstl.fmt.locale.session'] eq 'ua'}">
-                        <button class="btn btn-outline-light dropdown-toggle me-2" type="button" id="dropdownLang" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">UA</button>
+                        <button class="btn btn-outline-light dropdown-toggle me-2" type="button" id="dropdownLang" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" onchange="changeLanguage()">UA</button>
                         <div class="dropdown-menu" aria-labelledby="dropdownLang">
                             <a class="dropdown-item" href="home?action=changeLanguage&language=en">EN</a>
                         </div>
                     </c:when>
                     <c:otherwise>
-                        <button class="btn btn-outline-light dropdown-toggle me-2" type="button" id="dropdownLang" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">EN</button>
+                        <button class="btn btn-outline-light dropdown-toggle me-2" type="button" id="dropdownLang" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"onchange="changeLanguage()">EN</button>
                         <div class="dropdown-menu" aria-labelledby="dropdownLang">
                             <a class="dropdown-item" href="home?action=changeLanguage&language=ua">UA</a>
                         </div>
